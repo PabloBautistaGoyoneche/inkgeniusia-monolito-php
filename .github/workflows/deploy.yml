@@ -21,4 +21,4 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: ./home/kofpqpat/clientes/inkgeniusia.com/  # La ruta de tu carpeta en el hosting
+        server-dir: ./clientes/inkgeniusia.com/  # La ruta de tu carpeta en el hosting
